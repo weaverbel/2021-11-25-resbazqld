@@ -10,7 +10,7 @@ language: "en"     # lowercase two-letter ISO language code such as "fr" (see ht
 latitude: "153.0147819,16z"        # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-27.4995706"       # decimal longitude of the workshop venue (use https://www.latlong.net)
 humandate: "25 November, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "2:00 pm - 5:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
+humantime: "2:15 pm - 5:00 pm"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2021-11-25      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-11-25       # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Belinda Weaver"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -19,21 +19,6 @@ email: ["b.weaver@griffith.edu.au"]    # boxed, comma-separated list of contact 
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:   "195555049417"       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
-
-<div class="alert alert-danger">
-This is the workshop template. Delete these lines and use it to
-<a href="https://carpentries.github.io/workshop-template/customization/index.html">customize</a>
-your own website. If you are running a self-organized workshop or have not put
-in a workshop request yet, please also fill in
-<a href="{{site.amy_site}}/forms/self-organised/">this workshop request form</a>
-to let us know about your workshop and our administrator may contact you if we
-need any extra information.
-If this is a pilot workshop for a new lesson,
-set the `pilot` field to `true` in `_config.yml`.
-For workshops teaching a lesson in The Carpentries Incubator,
-remember to uncomment the `incubator_lesson_site`, `incubator_pre_survey`, and `incubator_post_survey`
-fields in `_config.yml`
-</div>
 
 {% comment %}
 8< ============================= until here ==================
