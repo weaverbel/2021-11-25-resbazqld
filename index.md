@@ -186,8 +186,8 @@ special instructions.
   accessible to everybody.  For workshops at a physical location, the workshop organizers have checked that:
 </p>
 <ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible Toilets are available.</li>
+  <li>The building and the training room are both wheelchair / scooter accessible.</li>
+  <li>Accessible toilets are available.</li>
 </ul>
 
 {% else %}
