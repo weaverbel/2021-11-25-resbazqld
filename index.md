@@ -17,7 +17,6 @@ instructor: ["Belinda Weaver"] # boxed, comma-separated list of instructors' nam
 helper: [" Craig Windell", "Masami Yamaguchi", "Leah Gustafson"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["b.weaver@griffith.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  "https://pad.carpentries.org/2021-11-25-resbazqld"
-eventbrite:   "195555049417"       # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %}
